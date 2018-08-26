@@ -161,8 +161,8 @@ const TemplateWrapper = withI18n()((props: SiteProps) => {
   return (
     <div>
       <Title
-        title={i18n.t`The missing accounting software for your cap table`}
-        description={i18n.t`Manage your Cap Table, not your Excel! quadblock is the single place to track the complete history of your shares, manage your ESOPs and model detailed financing rounds. Enjoy a guaranteed error-free cap table and engage your investors and employees. Try Now For Free!`}
+        title={i18n.t`Quad Blockchain :: Build knowledge in Blockchain`}
+        description={i18n.t`Manage your Blockchain Investments, not your Excel! Quad blockchain is the single place to track the complete history of your shares, manage your ESOPs and model detailed financing rounds. Enjoy a guaranteed error-free cap table and engage your investors and employees. Try Now For Free!`}
       />
       <Helmet>
         <html lang={props.lang} />
@@ -216,8 +216,7 @@ export default class extends React.Component<{ location: { pathname: string } }>
     require('freshchat-widget'); // eslint-disable-line global-require
     window.fcWidget.init({
       token: '4c30de40-1c6c-4aa0-b32c-b424b7287d34',
-      host: 'https://wchat.eu.freshchat.com',
-      siteId: 'landing-page',
+      host: 'https://wchat.freshchat.com',
     });
   }
   render = () => {

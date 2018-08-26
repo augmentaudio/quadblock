@@ -2,7 +2,7 @@
   "name": "quadblock-landing-page",
   "description": "Quadblock Landing Page",
   "version": "1.0.0",
-  "author": "Quadblock <contact@Quadblock.co>",
+  "author": "Quadblock <info@quadblock.co>",
   "repository": "augment/quadblock-app",
   "dependencies": {
     "@babel/core": "7.0.0-rc.1",
