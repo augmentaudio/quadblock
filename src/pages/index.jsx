@@ -29,7 +29,7 @@ const Header = ({ i18n, data, prefix }: Props) => (
             <p><Trans>Try Quadblock now. It’s <Link href to={`${prefix}/pricing/`}>free</Link>.</Trans></p>
           </div>
           <a className="btn btn-block d-sm-inline btn-xl mx-1 btn-round btn-outline-light" href={demoUrl} target="_blank" rel="noopener noreferrer"><Trans>See the demo</Trans></a>
-          <a className="btn btn-block d-sm-inline btn-xl mx-1 btn-round btn-light" href="#"><Trans>Get Started</Trans></a>
+          <a className="btn btn-block d-sm-inline btn-xl mx-1 btn-round btn-light" href="#references"><Trans>Get Started</Trans></a>
         </div>
 
         <div className="col-lg-6 order-lg-first" data-aos="fade-up">
