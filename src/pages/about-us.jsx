@@ -116,7 +116,7 @@ const IndexPage = (props: Props) => {
                 description={i18n.t`Battery science background, martial arts, fascinated by electric cars`}
                 twitterlink="https://twitter.com/"
                 linkedinlink="https://www.linkedin.com"
-                mail="gerhart@Quadblock.co"
+                mail="gerhart@quadblock.co"
                 img={data.ben}
               />
               <Founder
