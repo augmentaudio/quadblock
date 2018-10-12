@@ -76,13 +76,13 @@ const IndexPage = (props: Props) => {
                 <h2><Trans>Our mission</Trans></h2>
                 <p className="lead">
                   <Trans>
-                    We want to empower entrepreneurs. They
-                    should be able to focus on their business,
-                    not on bureaucratic paperwork. That’s why we want to
-                    establish a new, state-of-the-art tool to manage,
-                    exchange, and trade securities in private companies. Our
-                    goal is to make shares management a breeze for both
-                    companies and shareholders.
+                  Quad Blockchain provides integrated accounting and investment analysis software that improves operational
+                  efficiency and provides immediate, actionable intelligence to clients around the globe.
+                  Originally designed for the hedge fund market, our powerful portfolio and
+                  partnership accounting software — together with its integrated ledger — created demand
+                  from the Blockchain market. Today, over 150 fund administrators,
+                  private equity and hedge funds firms worldwide with assets totalling more than $200 million
+                  rely on Quad Blockchain for accurate, timely information and flexible reporting.
                   </Trans>
                 </p>
               </div>
