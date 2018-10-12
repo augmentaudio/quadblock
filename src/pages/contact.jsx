@@ -57,28 +57,24 @@ const IndexPage = (props: Object) => (
 
             <div className="row">
               <div className="col-md-6">
-                <h6>quadblock AG</h6>
+                <h6>Quad Blockchain</h6>
                 <p>
-                    Forchstrasse 60<br />
-                    8008 Zürich<br />
-                  <Trans>Switzerland</Trans>
-                </p>
-                <h6><Trans>VAT number</Trans></h6>
-                <p>
-                    CHE‑261.454.963 MWST
+                13 West St<br />
+                Harrow<br />
+                London<br />
+                HA1 3ED<br />
                 </p>
               </div>
               <div className="col-md-6">
                 <h6><Trans>Contact</Trans></h6>
                 <p>
-                  <a href="mailto:contact@Quadblock.co">contact@Quadblock.co</a><br />
-                        +41 (0) 44 876 21 23
+                  <a href="mailto:contact@quadblock.co">contact@quadblock.co</a><br />
+                        +44 (0) 20 866 34 66
                 </p>
                 <h6><Trans>Managing directors</Trans></h6>
                 <p>
-                Thomas Sprig<br />
-                Ben-Elis Krandt<br />
-                Timo Maas
+                Peter Bergeiz<br />
+                Clarence Greets<br />
                 </p>
               </div>
             </div>
