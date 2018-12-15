@@ -80,9 +80,9 @@ const IndexPage = (props: Props) => {
                   efficiency and provides immediate, actionable intelligence to clients around the globe.
                   Originally designed for the hedge fund market, our powerful portfolio and
                   partnership accounting software — together with its integrated ledger — created demand
-                  from the Blockchain market. Today, over 150 fund administrators,
-                  private equity and hedge funds firms worldwide with assets totalling more than $200 million
-                  rely on Quad Blockchain for accurate, timely information and flexible reporting.
+                  from the Blockchain market. Today, over 150 fund administrators, private equity and
+                  hedge funds firms worldwide rely on Quad Blockchain for accurate, timely information
+                  and flexible reporting.
                   </Trans>
                 </p>
               </div>

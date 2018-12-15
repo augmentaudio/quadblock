@@ -65,6 +65,7 @@ export default class extends React.Component<Props, {
             placeholder={i18n.t`Enter your email…`}
             disabled={this.state.loading}
           />
+
           <div className="input-group-append d-none d-sm-block">
             <Submit {...this.state} />
           </div>
@@ -74,6 +75,7 @@ export default class extends React.Component<Props, {
           <div>Don’t fill this out if you’re human: <input name="bot-field" /></div>
           <input name="referrer" />
           <input name="href" />
+          <input type="hidden" name="_next" value="/pages/thanks.html" />
         </div>
         <small className={`text-danger ${this.state.invalid ? '' : 'invisible'}`}>
           <Trans>Oops. This email address is invalid.</Trans>
